@@ -67,7 +67,6 @@ html {
     transform: translate(-50%, -50%);
     font-family: Icomoon;
 }
-
 .app-block .app--word::before {
     background-color: darkblue;
 }
